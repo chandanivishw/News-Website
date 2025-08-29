@@ -118,6 +118,17 @@ section{
     gap: 1rem;
 }
 
+        .ad {
+            margin-top: 20px;
+            text-align: center;
+            padding: 20px;
+        }
+        .ad img {
+            width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+
 footer{
     padding: 20px;
 }
